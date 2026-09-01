@@ -7,4 +7,4 @@ or add API_KEY to Streamlit secrets.
 
 import os
 
-API_KEY = os.getenv("NEWSAPI_KEY", "")
+API_KEY = os.getenv("NEWSAPI_KEY", "1186ffb930c54389982ecd79cb9b5fae")
